@@ -11,7 +11,7 @@ section: blog
   </div>
   <div class="col4">
     <div class=" pad-4">
-      <p><a href="/blog.rss">Subscribe via RSS</a></p>
+      <p><a href="{{site.baseurl}}/blog.rss">Subscribe via RSS</a></p>
       <p>Tags</p>
       {% for tag in site.data.tags %}
       {{tag}}{% unless forloop.last %}, {% endunless %}

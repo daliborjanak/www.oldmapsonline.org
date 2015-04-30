@@ -7,8 +7,7 @@
     <meta name="description" content="{% if page.description %}{{page.description}}{% endif %}">
     <meta name="keywords" content="{% if page.keywords %}{{page.keywords}}{% endif %}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="SITEURLGOESHERE/blog.rss" />
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <!--<link href="{{site.baseurl}}/style/css/index.css" rel="stylesheet" />-->
+    <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon" />
     <link href="{{site.baseurl}}/style/css/sites.css" rel="stylesheet" />
   </head>
   <body>
@@ -28,7 +27,7 @@
             <div class="col12">
               <ul class="mary-no">
                 <li><a href="http://www.oldmapsonline.org/">Search</a></li>
-                <li><a href="http://project.oldmapsonline.org/collections">Collections</a></li>
+                <li><a href="{{site.baseurl}}/collections">Collections</a></li>
                 <li class="{% if page.section == 'blog' %}active{% endif %}" >
                   <a href="{{site.baseurl}}/blog/">Blog</a>
                 </li>
