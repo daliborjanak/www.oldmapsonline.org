@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{page.title}} | {% endif %}OldMapsOnline</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta name="description" content="{% if page.description %}{{page.description}}{% endif %}">
+    <meta name="keywords" content="{% if page.keywords %}{{page.keywords}}{% endif %}">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="SITEURLGOESHERE/blog.rss" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <!--<link href="{{site.baseurl}}/style/css/index.css" rel="stylesheet" />-->
+    <link href="{{site.baseurl}}/style/css/sites.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <div id="header" class="container">
+        <div  class="row">
+          <div class="col12">
+            <a href="http://www.oldmapsonline.org/" id="logo" class="marx-4">Old Maps Online</a>
+          </div>
+        </div>
+      </div>
+    </header>
+    <nav>
+      <div id="navigation">
+        <div class="container">
+          <div  class="row">
+            <div class="col12">
+              <ul class="mary-no">
+                <li><a href="http://www.oldmapsonline.org/">Search</a></li>
+                <li><a href="http://project.oldmapsonline.org/collections">Collections</a></li>
+                <li class="{% if page.section == 'blog' %}active{% endif %}" >
+                  <a href="{{site.baseurl}}/blog/">Blog</a>
+                </li>
+                <li class="{% if page.section == 'page' %}active{% endif %}" >
+                  <a href="{{site.baseurl}}/about">About</a>
+                </li>
+              </ul>
+            </div>
+          </div>        
+        </div>
+      </div>
+    </nav>
+    <div class="container main">
+      {{content}}
+    </div>
+  </body>

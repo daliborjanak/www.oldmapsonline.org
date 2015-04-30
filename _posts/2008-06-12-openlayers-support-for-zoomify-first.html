@@ -1,0 +1,15 @@
+---
+published: true 
+category: blog 
+layout: post
+title: OpenLayers support for Zoomify - first version
+date: '2008-06-12T01:37:00.000-07:00'
+author: Petr Pridal
+tags:
+- development
+modified_time: '2008-06-24T14:14:48.535-07:00'
+blogger_id: tag:blogger.com,1999:blog-2322567796333088461.post-4225990914705293165
+blogger_orig_url: http://blog.oldmapsonline.org/2008/06/openlayers-support-for-zoomify-first.html
+---
+
+<a href="http://www.openlayers.org/">OpenLayers</a> is an open-source JavaScript based mapping client a la Google Maps. <br /><br />OpenLayers can display several map sources, like maps from Google Maps, Yahoo, Microsoft Live Maps as well as from any WMS compatible map server. Therefore you can combine maps from different sources, you can even <a href="http://openlayers.org/dev/examples/modify-feature.html">create and modify vector features</a> or sketch on top of the maps - just like when you create your own maps in <a href="http://www.blogger.com/post-edit.g?blogID=2322567796333088461&amp;postID=4225990914705293165">Google My Maps</a>.<br /><br />We have extended OpenLayers project with functionality needed to display Zoomify tiles (<a href="http://trac.openlayers.org/ticket/1285">source code of this patch is here</a>).<br /><br />Simple example displaying Zoomify tiles in OpenLayers is in our code repository:<br /><br /><a href="http://oldmapsonline.googlecode.com/svn/trunk/openlayers/examples/zoomify.html">http://oldmapsonline.googlecode.com/svn/trunk/openlayers/examples/zoomify.html</a><br /><br />(we will improve this patch - it's loading is very slow for now as OpenLayers is not merged into one file and it is not compressed)<br /><br />This is the core functionality of our planned georeference tool (<a href="http://oldmapsonline.googlecode.com/svn/trunk/georeference.html">GUI prototype</a>), which will allow anyone to generate georeference metadata for already published maps: especially those published as zoomify tiles, TMS Tiles or through a WMS standard from a MapServer.

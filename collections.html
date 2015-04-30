@@ -1,0 +1,29 @@
+---
+layout: page
+section: page
+title: Collections
+description: Collections
+keywords: collections, institutions
+---
+
+<h1>Collections</h1>
+
+<p>Below are brief descriptions of the online digital map collections searchable and accessible through the OldMapsOnline portal. Nearly all the institutions providing online map collections have a much larger paper map collection available at their respective institutions, but the OldMapsOnline portal will only search and provide direct linkage to the online maps.</p>
+
+<p>During the JISC funded project we added collections from around the world. This funding has now finished but we plan to continue making content updates periodically. Read more here to find out how to add your collection:</p>
+
+<a href="/contributions/" class="btn">Join our contributors</a>
+
+<h2 class="padt-4">The participating institutions</h2>
+
+{% for coll in site.data.collections %}
+<div class="row">
+  <div class="col8">
+    <h3><a href="{{coll.linkcoll}}">{{coll.name}}</a></h3>
+    <p>{{coll.text}}</p>
+  </div>
+  <div class="col4 center pady-3">
+    <img src="{{coll.logo}}" alt="{{coll.name}}">
+  </div>
+</div>
+{% endfor %}
