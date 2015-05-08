@@ -103,3 +103,7 @@
   linkist: "http://www.visionofbritain.org.uk/index.jsp"
   linkcoll: "http://www.visionofbritain.org.uk/maps/"
   text: "Featuring mainly British maps this collection divides its map images into types; topographic, boundary and land use. It uses two viewers, one presenting a small number of zoomable mosaics of the whole of Great Britain which can be used as a finding aid for a second viewer that will show entire individual map sheets for map series that are not continuous."
+- just: write some
+- yaml: 
+  - [here, and]
+  - {it: updates, in: real-time}
