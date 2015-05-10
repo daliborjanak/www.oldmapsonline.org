@@ -6,9 +6,17 @@ description:
 keywords: contribute
 ---
 
-#Contribute
+#Add a single map
 
-*We want to provide access to as many map collections as possible from Old Maps Online, just so long as they meet these requirements:*
+Single maps can be added via Google Chrome extension. Please, install the plugin from Google Chrome store, find a suitable map and click to add a map.
+(PRINTSCREEN)
+Fill the table and click on save
+(PRINTSCREEN)
+
+
+#Add collections of maps
+
+*Only collections that meet these requirements can be uploaded:*
 
 **1. High resolution scans of old maps (300 DPI, or at least 2 Mpix)**
 
@@ -16,7 +24,7 @@ keywords: contribute
 
 **3. Each map has its own permanent URL, taking users directly to the viewer**
 
-**4. You have coordinates for the corners of each map**
+**4. Coordinates for the corners of each map**
 
 To upload your maps to OldMapsOnline, we need to receive:
 
