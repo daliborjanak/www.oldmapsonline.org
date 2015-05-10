@@ -16,7 +16,7 @@ Fill the table and click on save
 
 #Add collections of maps
 
-*Only collections that meet these requirements can be uploaded:*
+*Adding whole collection raises a number of visitors on your website. Only collections that meet these requirements can be uploaded:*
 
 **1. High resolution scans of old maps (300 DPI, or at least 2 Mpix)**
 
