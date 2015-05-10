@@ -11,11 +11,8 @@ keywords: contribute
 *We want to provide access to as many map collections as possible from Old Maps Online, just so long as they meet these requirements:*
 
 **1. High resolution scans of old maps (300 DPI, or at least 2 Mpix)**
-
 **2. Maps in a zoomable viewer, available online without payments or passwords**
-
 **3. Each map has its own permanent URL, taking users directly to the viewer**
-
 **4. You have coordinates for the corners of each map**
 
 To upload your maps to OldMapsOnline, we need to receive:
