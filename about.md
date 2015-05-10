@@ -5,7 +5,7 @@ section: page
 
 ##The search engine for historical map
 
-OldMapsOnline allows users to search for online historical maps across numerous collections from prominent libraries and archives. It was developed with love to history and heritage of the old maps and thanks to all participants, this site lists over half a million historical maps. The project was created in 2012 by a collaboration between Klokan Technologies GmbH, Switzerland and The University of Portsmouth, UK. 
+OldMapsOnline was developed with love to history and heritage of the old maps and thanks to all participants, this site lists over half a million historical maps. The project was created in 2012 by a collaboration between Klokan Technologies GmbH, Switzerland and The University of Portsmouth, UK. 
 
 Copyright
 
