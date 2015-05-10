@@ -3,9 +3,7 @@ layout: page
 section: page
 ---
 
-##About
-
-**The search engine for historical maps**
+##The search engine for historical map
 
 OldMapsOnline allows users to search for online historical maps across numerous collections from prominent libraries and archives. It was developed with love to history and heritage of the old maps and thanks to all participants, the site lists over half a million historical maps.
 
