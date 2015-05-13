@@ -1,6 +1,8 @@
 baseurl: "http://klokantech.github.io/www.oldmapsonline.org"
 permalink: pretty
 markdown: rdiscount
+gems:
+    - jekyll-redirect-from
 prose:
   rooturl: "_posts"
   siteurl: "http://prose.github.io/starter/"
