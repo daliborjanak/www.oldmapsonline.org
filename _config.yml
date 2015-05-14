@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "http://klokantech.github.io/www.oldmapsonline.org"
 permalink: /blog/:year/:month/:title
 #wget -m http://project.oldmapsonline.org/collections
 
