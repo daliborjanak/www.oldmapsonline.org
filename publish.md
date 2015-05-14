@@ -1,6 +1,7 @@
 ---
 layout: page
 section: page
+permalink: publish/
 title: Publish
 description: Publish
 keywords: publish, map, oldmap

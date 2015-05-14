@@ -1,6 +1,7 @@
 ---
 layout: page
 section: page
+permalink: terms/
 title: Terms of Use
 description: Terms of Use
 keywords: terms of use, terms

@@ -1,6 +1,7 @@
 ---
 layout: page
 section: page
+permalink: faq/
 title: Frequently Asked Questions
 description: Frequently Asked Questions
 keywords: frequently asked questions, questions, faq

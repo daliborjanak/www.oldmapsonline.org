@@ -1,6 +1,7 @@
 ---
 layout: page
 section: page
+permalink: contribute/
 title: Contribute
 description: 
 keywords: contribute

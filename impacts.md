@@ -1,6 +1,7 @@
 ---
 layout: page
 section: page
+permalink: impacts/
 title: Impacts
 description: Impacts
 keywords: video

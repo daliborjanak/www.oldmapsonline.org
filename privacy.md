@@ -1,6 +1,7 @@
 ---
 layout: page
 section: page
+permalink: privacy/
 title: Privacy and Cookies
 description: Privacy and Cookies
 keywords: privacy, policy, cookies

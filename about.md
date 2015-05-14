@@ -1,6 +1,9 @@
 ---
 layout: page
-section: page
+permalink: about/
+title: About OldMapsOnline
+description: About project OldMapsOnline
+keywords: about, project, oldmapsonline
 ---
 
 ##The search engine for historical map
