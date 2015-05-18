@@ -10,11 +10,16 @@
     <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon" />
     <link href="{{site.baseurl}}/style/css/sites.css" rel="stylesheet" />
     <script type="application/ld+json">
-      {  "@context" : "http://schema.org",
-         "@type" : "WebSite",
-         "name" : "OldMapsOnline",
-         "alternateName" : "Old Maps Online",
-         "url" : "http://oldmapsonline.org"
+      { "@context" : "http://schema.org",
+        "@type" : "WebSite",
+        "name" : "OldMapsOnline",
+        "alternateName" : "Old Maps Online",
+        "url" : "http://oldmapsonline.org",
+          "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://cse.google.com/cse/publicurl?cx=006235733786625173718:zh2gyt2vg_u&q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
       }
     </script>
   </head>
