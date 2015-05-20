@@ -11,24 +11,26 @@
     <link href="{{site.baseurl}}/style/css/sites.css" rel="stylesheet" />
     <script type="application/ld+json">
       { "@context" : "http://schema.org",
-        "@type" : "WebSite",
-        "name" : "OldMapsOnline",
-        "alternateName" : "Old Maps Online",
-        "url" : "http://oldmapsonline.org",
-          "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://cse.google.com/cse/publicurl?cx=006235733786625173718:zh2gyt2vg_u&q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+      "@type" : "WebSite",
+      "name" : "OldMapsOnline",
+      "alternateName" : "Old Maps Online",
+      "url" : "http://oldmapsonline.org",
+      "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://cse.google.com/cse/publicurl?cx=006235733786625173718:zh2gyt2vg_u&q={search_term_string}",
+      "query-input": "required name=search_term_string"
+      }
       }
     </script>
   </head>
   <body>
     <header>
-      <div id="header" class="container">
-        <div  class="row">
-          <div class="col12">
-            <a href="http://www.oldmapsonline.org/" id="logo" class="marx-4">Old Maps Online</a>
+      <div id="header">
+        <div class="container">
+          <div  class="row">
+            <div class="col12">
+              <a href="http://www.oldmapsonline.org/" id="logo" class="marx-4">Old Maps Online</a>
+            </div>
           </div>
         </div>
       </div>
@@ -40,7 +42,9 @@
             <div class="col12">
               <ul class="mary-no">
                 <li><a href="http://www.oldmapsonline.org/">Search</a></li>
-                <li><a href="{{site.baseurl}}/content">Content</a></li>
+                <li class="{% if page.section == 'content' %}active{% endif %}" >
+                  <a href="{{site.baseurl}}/content">Content</a>
+                </li>
                 <li class="{% if page.section == 'blog' %}active{% endif %}" >
                   <a href="{{site.baseurl}}/blog/">News</a>
                 </li>

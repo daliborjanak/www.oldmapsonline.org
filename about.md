@@ -1,5 +1,6 @@
 ---
 layout: page
+section: page
 permalink: about/
 title: About OldMapsOnline
 description: About project OldMapsOnline

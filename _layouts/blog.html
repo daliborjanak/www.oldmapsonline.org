@@ -4,29 +4,33 @@ section: blog
 ---
 
 <div class="row">
-  <div class="col8">
-    <div class=" pad-4">
+  <div class="col9">
+    <div class="padx-4 pady-6">
       {{content}}
     </div>
   </div>
-  <div class="col4">
-    <div class=" pad-4">
+  <div class="col3">
+    <div class="blog-sidebar pady-4 padx-2">
       <p><a href="{{site.baseurl}}/blog.rss">Subscribe via RSS</a></p>
-      <p>Tags</p>
+      <h3>Tags</h3>
       {% for tag in site.data.tags %}
       {{tag}}{% unless forloop.last %}, {% endunless %}
       {% endfor %}
-      <p>Blog archive</p>
+      <h3 class="padt-2">Blog archive</h3>
       <div>
+        <p class="mar-no">
         {% for item in site.categories.blog limit:1000 %}
         {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
         {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 
+        
         {% if date != ndate %}
-        <p>{{item.date | date: '%B %Y'}}</p>
+        {% unless forloop.first %}<br>{% endunless %}{{item.date | date: '%B %Y'}}<br>
         {% endif %}
-        <a href='{{site.baseurl}}{{item.url}}'>{{item.title}} <span class='date'>&#126; {{item.date | date:"%b %d"}}</span></a>
+        <a href='{{site.baseurl}}{{item.url}}'>
+          {{item.title | truncate: 30, '...' }}</a><br>
         {% endfor %}
+        </p>
       </div>
     </div>
   </div>
