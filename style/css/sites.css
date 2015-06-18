@@ -247,6 +247,10 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover{
   background-color: #e1dccd;
 }
 
+.width-100{width: 100%;}
+.width-80{width: 80%;}
+.width-50{width: 50%;}
+
 .no-padding { padding: 0; }
 
 .no-margin { margin: 0; }
