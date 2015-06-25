@@ -1,4 +1,4 @@
-baseurl: "http://klokantech.github.io/www.oldmapsonline.org"
+baseurl: ""
 permalink: /blog/:year/:month/:title
 
 markdown: rdiscount
