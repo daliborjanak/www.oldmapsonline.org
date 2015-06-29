@@ -34,20 +34,40 @@ keywords: get tnvolved, contibute, cultural heritage
       <h2 class="padt-5">How does it work</h2>
       <iframe width="640" height="480" src="https://www.youtube.com/embed/0OrSVn8k8Mc" frameborder="0" allowfullscreen></iframe>  </div>
   </div>   
-
   <div class="row">
     <div class="col12 center">
       <h3 class="padt-4">The participating institutions</h3>
-      {% for coll in site.data.collections %}
-      {% if coll.repository_title.size > 0 %}
-      <a href="{{coll.repository_link}}">
-        <img class="desaturate mar-1" 
-             src="http://images.georeferencer.com/repositories/{{coll.repository_id}}/logo.png"
-             alt="{{coll.repository_title}}"
-             style="height:50px;">
+      <a href="http://http://britishlibrary.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/britishlibrary.png" alt="Bl logo" style="max-height:60px;">
       </a>
-      {% endif %}
-      {% endfor %}
+      <a href="http://rumsey.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/rumsey.png" alt="Rumsey logo" style="max-height:50px; max-width: 180px;">
+      </a>
+           <a href="http://cuni.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/cuni.png" alt="Cuni logo" style="max-height:50px;">
+      </a>
+      <a href="http://nationaalarchief.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/nationaalarchief.png" alt="Na logo" style="max-height:50px;">
+      </a>
+      <a href="http://icc.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/icc.png" alt="Icc logo" style="max-height:50px;">
+      </a>
+      <a href="http://mzk.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/mzk.png" alt="Mzk logo" style="max-height:50px;">
+      </a>
+      <a href="http://nls.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/nls.png" alt="Nlos logo" style="max-height:50px;">
+      </a>
+      <a href="http://uu.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/uu.png" alt="Uu logo" style="max-height:50px;">
+      </a>
+      <a href="http://staremapy.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/staremapy.png" alt="Staremapy logo" style="max-height:50px;">
+      </a>
+      <a href="http://bmarchives.georeferencer.com/random">
+        <img class="desaturate mar-1" src="{{site.baseurl}}/img/inst/bmarchives.png" alt="Bmarchives logo" style="max-height:50px;">
+      </a>
+
       <p>Read <a href="/add-maps/">Add maps</a> to join as an institution.</p>
     </div>
   </div>
