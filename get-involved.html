@@ -7,60 +7,48 @@ description: Join us to improve OldMapsOnline project
 keywords: get tnvolved, contibute, cultural heritage
 ---
 
-<div class="page-block mary-3 padb-5">
+<div class="page-block mary-3 padb-2">
   <div class="row">
     <div class="col12 center pady-3">
-      <h1 class="large">Old maps available for everyone</h1>
-      <h3>Join us to preserve Cultural heritage</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col4 center">
-      <img src="http://www.staremapy.cz/img/icon1.png" alt="Boat">
-      <p class="i">It were the dreams and desires of travellers, monarchs and&nbsp;generals…</p>
-    </div>
-    <div class="col4 center">
-      <img src="http://www.staremapy.cz/img/icon2.png" alt="Boat">
-      <p class="i">… the hands of artists and cartographers, who&nbsp;created these works…</p>
-    </div>
-    <div class="col4 center">
-      <img src="http://www.staremapy.cz/img/icon3.png" alt="Boat">
-      <p class="i">… and now it's you who can rediscover these documents, put&nbsp;them on&nbsp;modern maps, and&nbsp;share them with the future generations.</p>
+      <h1 class="large">Help us place the scanned maps</h1>
+      <p class="big"><b>Thousands of maps are still waiting to be be discovered and located.<br>
+          Five minutes of your time will help to add a map to the OldMapsOnline.</b></p>
     </div>
   </div>
   <div class="row">
     <div class="offset4 col4 center">
-      <div class="pady-2 mary-3 padx-3 bg-light">
-        <p>Join us to this project</p>
-        <a href="#" class="btn large">Get Involved</a>
+      <div class="pady-2 mary-2 padx-2 bg-light">
+        <a href="http://rumsey.georeferencer.com/random/" class="btn large marbottom-no">Add&nbsp;location&nbsp;to&nbsp;a&nbsp;map</a>
       </div>
-      <h3 class="padt-4">Your five minutes could</h3>
     </div>
   </div>
   <div class="row">
-    <div class="col4 center">
-      <p class="big">Compare old map with modern maps</p>
+    <div class="col12 center">
+      <p class="big">This easy process lets you to add a geographical position to any scanned old map<br>
+        and overlay it in over 3D Google Earth or Google Maps.</p>
     </div>
-    <div class="col4 center">
-      <p class="big">Make old map searchable and processable</p>
-    </div>
-    <div class="col4 center">
-      <p class="big">Discover enjoyable method with positioning of old maps</p>
-    </div>
-  </div>
+  </div>   
+
+  <div class="row">
+    <div class="col12 center">
+      <h2 class="padt-5">How does it work</h2>
+      <iframe width="640" height="480" src="https://www.youtube.com/embed/0OrSVn8k8Mc" frameborder="0" allowfullscreen></iframe>  </div>
+  </div>   
+
   <div class="row">
     <div class="col12 center">
       <h3 class="padt-4">The participating institutions</h3>
       {% for coll in site.data.collections %}
       {% if coll.repository_title.size > 0 %}
       <a href="{{coll.repository_link}}">
-      <img class="desaturate mar-1" 
-           src="http://images.georeferencer.com/repositories/{{coll.repository_id}}/logo.png"
-           alt="{{coll.repository_title}}"
-           style="height:50px;">
+        <img class="desaturate mar-1" 
+             src="http://images.georeferencer.com/repositories/{{coll.repository_id}}/logo.png"
+             alt="{{coll.repository_title}}"
+             style="height:50px;">
       </a>
       {% endif %}
       {% endfor %}
+      <p>Read <a href="/add-maps/">Add maps</a> to join as an institution.</p>
     </div>
   </div>
 </div>
