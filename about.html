@@ -1,0 +1,46 @@
+---
+layout: page
+section: page
+permalink: about/
+redirect_from: ["content/"]
+title: About OldMapsOnline
+description: About project OldMapsOnline
+keywords: about, project, oldmapsonline
+---
+
+<h1>The search engine for historical map</h1>
+
+OldMapsOnline was developed with love to history and heritage of the old maps and thanks to all participants, this site lists over half a million historical maps. The project was created in 2012 by a collaboration between Klokan Technologies GmbH, Switzerland and The University of Portsmouth, UK. 
+
+<h3>Technology</h3>
+
+The website is created by <a href="http://www.klokantech.com">Klokan Technologies GmbH</a>, specialized in online map publishing and applications of open-source software. The aim is to demonstrate a combination of tools for publishing historical maps with focus on easy accesibility by general public. If you wish to include these technologies for other purposes, such as National or European development projects, we can share our expertise and take a part. Please contact us at info@klokantech.com  
+
+<h2 class="padt-4">Content</h2>
+
+<p>Since 2012, OldMapsOnline.org has indexed over half a million maps. This is 
+  only thanks to the archives and libraries, that were opened to the idea and 
+  provided their online content. All new participants are therefore warmly 
+  welcomed.</p> 
+
+<a href="/add-maps/" class="btn">Add maps to OldMapsOnline</a>
+
+<h2 class="padt-4">The participating institutions</h2>
+
+{% for coll in site.data.collections %}
+{% if coll.repository_title.size > 0 %}
+<div class="row">
+  <div class="col8">
+    <h3>
+      <a href="{{coll.repository_link}}" target="_blank">{{coll.repository_title}}</a>
+    </h3>
+    <p>{{coll.repository_description}}</p>
+  </div>
+  <div class="col4 center pady-3">
+    <img src="http://images.georeferencer.com/repositories/{{coll.repository_id}}/logo.png" 
+         alt="{{coll.repository_title}}"
+         style="max-width: 100%;">
+  </div>
+</div>
+{% endif %}
+{% endfor %}
