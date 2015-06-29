@@ -111,7 +111,10 @@ img.desaturate:hover{
 }
 #navigation li a:hover, #navigation li.active a{color: #d59a0b;}
 
-
+#getinvolved{
+  margin: 0;
+  float: right;
+}
 .container { max-width: 1000px; width: 95%; margin-left: auto; margin-right: auto; padding: 0 0; }
 .container.main { padding-top: 0;}
 
