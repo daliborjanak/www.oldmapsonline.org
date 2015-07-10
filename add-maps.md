@@ -7,14 +7,14 @@ title: Contribute
 description: 
 keywords: contribute
 ---
-
+<!--
 #Add a single map
 
 Single maps can be added via Google Chrome extension. Please, install the plugin from Google Chrome store, find a suitable map and click to add a map.
 (PRINTSCREEN)
 Fill the table and click on save
 (PRINTSCREEN)
-
+-->
 
 #Add collections of maps
 
