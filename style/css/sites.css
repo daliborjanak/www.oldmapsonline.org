@@ -257,6 +257,11 @@ img.desaturate:hover{
   clear: both;
 }
 
+.store-logo{
+  width: 190px;
+  height: 66px;
+}
+
 .bg-light{
   background-color: #e1dccd;
 }
