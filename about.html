@@ -27,12 +27,18 @@ The website is created by <a href="http://www.klokantech.com">Klokan Technologie
 
 <h2 class="padt-4">The participating institutions</h2>
 
+{% assign maps_in_omo = 0 %}
+{% assign maps_in_omo_mob = 0 %}
 {% for coll in site.data.collections %}
 {% if coll.repository_title.size > 0 %}
+{% capture maps_in_omo %}{{  maps_in_omo |plus: coll.repository_num_maps_in_omo }}{% endcapture %}
+{% capture maps_in_omo_mob %}{{  maps_in_omo_mob |plus: coll.repository_num_maps_in_omo_mobile }}{% endcapture %}
 <div class="row">
   <div class="col8">
     <h3>
-      <a href="{{coll.repository_link}}" target="_blank">{{coll.repository_title}}</a>
+      <a href="{{coll.repository_link}}" target="_blank" 
+         title="Maps in OMO:{{coll.repository_num_maps_in_omo}} Maps in OMOMobile:{{coll.repository_num_maps_in_omo_mobile}}">
+        {{coll.repository_title}}</a>
     </h3>
     <p>{{coll.repository_description}}</p>
   </div>
@@ -44,3 +50,9 @@ The website is created by <a href="http://www.klokantech.com">Klokan Technologie
 </div>
 {% endif %}
 {% endfor %}
+<div class="row">
+  <div class="col12">
+    <p><b>Total maps in OldMapsOnline: {{maps_in_omo}}</b></p>
+    <p><b>Total maps in Mobile App: {{maps_in_omo_mob}}</b></p>
+  </div>
+</div>
