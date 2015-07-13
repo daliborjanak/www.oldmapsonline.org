@@ -29,7 +29,10 @@ The website is created by <a href="http://www.klokantech.com">Klokan Technologie
 
 {% assign maps_in_omo = 0 %}
 {% assign maps_in_omo_mob = 0 %}
-{% for coll in site.data.collections %}
+
+{% assign collections = site.data.collections | sort: 'repository_num_maps_in_omo' %}
+
+{% for coll in collections reversed %}
 {% if coll.repository_title.size > 0 %}
 {% capture maps_in_omo %}{{  maps_in_omo |plus: coll.repository_num_maps_in_omo }}{% endcapture %}
 {% capture maps_in_omo_mob %}{{  maps_in_omo_mob |plus: coll.repository_num_maps_in_omo_mobile }}{% endcapture %}
