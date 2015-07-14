@@ -114,6 +114,7 @@ img.desaturate:hover{
 #getinvolved{
   margin: 0;
   float: right;
+  padding: 0;
 }
 .container { max-width: 1000px; width: 95%; margin-left: auto; margin-right: auto; padding: 0 0; }
 .container.main { padding-top: 0;}
@@ -219,11 +220,11 @@ img.desaturate:hover{
 }
 
 .page-block{
-  display: inline-block;
+  /*display: inline-block;*/
   background-color: #eae7db;
   border-top: 5px solid #a29b8a;
   padding: 25px;
-  margin-bottom: 50px;
+  margin: 60px 40px 50px 40px;
   -webkit-box-shadow: 0px 0px 1px 1px rgba(214,210,196,1);
   -moz-box-shadow: 0px 0px 1px 1px rgba(214,210,196,1);
   box-shadow: 0px 0px 1px 1px rgba(214,210,196,1);
@@ -336,3 +337,16 @@ img.desaturate:hover{
 .mary-5 { margin-top: 50px; margin-bottom: 50px; }
 
 .center{text-align: center;}
+.inline-block{display: inline-block;}
+
+@media(max-width: 768px){
+  .page-block{
+  margin: 20px 5px 10px 5px;
+  }
+  #navigation li a, #results_header p{
+    padding: 0;
+  }
+  ul.mary-no{
+    padding: 0;
+  }
+}

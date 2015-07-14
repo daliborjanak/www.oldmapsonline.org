@@ -8,6 +8,7 @@ description: About project OldMapsOnline
 keywords: about, project, oldmapsonline
 ---
 
+<div class="inline-block">
 <h1>The search engine for historical map</h1>
 
 OldMapsOnline was developed with love to history and heritage of the old maps and thanks to all participants, this site lists over half a million historical maps. The project was created in 2012 by a collaboration between Klokan Technologies GmbH, Switzerland and The University of Portsmouth, UK. 
@@ -43,7 +44,7 @@ The website is created by <a href="http://www.klokantech.com">Klokan Technologie
          title="Maps in OMO:{{coll.repository_num_maps_in_omo}} Maps in OMOMobile:{{coll.repository_num_maps_in_omo_mobile}}">
         {{coll.repository_title}}</a>
     </h3>
-    <p>{{coll.repository_description}}</p>
+    <p>{% if coll.repository_title.size > 0 %}{{coll.repository_description}}{% endif %}</p>
   </div>
   <div class="col4 center pady-3">
     <img src="http://images.georeferencer.com/repositories/{{coll.repository_id}}/logo.png" 
@@ -58,4 +59,5 @@ The website is created by <a href="http://www.klokantech.com">Klokan Technologie
     <p><b>Total maps in OldMapsOnline: {{maps_in_omo}}</b></p>
     <p><b>Total maps in Mobile App: {{maps_in_omo_mob}}</b></p>
   </div>
+</div>
 </div>
