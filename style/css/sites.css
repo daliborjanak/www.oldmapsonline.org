@@ -212,6 +212,11 @@ img.desaturate:hover{
   font-size: 20px;
 }
 
+.btn-box{
+  width: 320px; 
+  margin: 20px auto;
+}
+
 #validator{
   border: none;
   width: 100%;
