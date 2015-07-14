@@ -51,7 +51,7 @@ h1, h2, h3, h4{
   margin: 0;
   font-weight: bold;
 }
-h1 {font-size: 24px;}
+h1 {font-size: 24px; padding: 10px 0 10px 0}
 h1.large{font-size: 40px;}
 h2 {font-size: 20px;}
 h3 {font-size: 16px;}
