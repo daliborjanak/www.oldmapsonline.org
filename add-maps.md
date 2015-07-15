@@ -3,9 +3,9 @@ layout: page
 section: page
 permalink: "add-maps/"
 redirect_from:
-  - contribute
-  - validator
-  - publish
+  - contribute/
+  - validator/
+  - publish/
 title: Contribute
 description: 
 keywords: contribute
