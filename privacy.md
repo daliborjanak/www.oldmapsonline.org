@@ -2,7 +2,8 @@
 layout: page
 section: page
 permalink: privacy/
-title: Privacy and Cookies
+title: Privacy and Cookies  
+redirect_from: ["privacy-and-cookies"]
 description: Privacy and Cookies
 keywords: privacy, policy, cookies
 ---
