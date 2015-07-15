@@ -9,7 +9,7 @@ keywords: press, announcement
 
 #Historical maps in your hand
 
-On Tuesday, July 21, a new version of OldMapsOnline.org will be launched with its bright new mobile application that, thanks to the device’s geolocation, can display the position of users on maps that might be hundreds of years old. 
+*On Tuesday, July 21, a new version of OldMapsOnline.org will be launched with its bright new mobile application that, thanks to the device’s geolocation, can display the position of users on maps that might be hundreds of years old.*
 
 OldMapsOnline is a search engine for maps that allows visitors to explore and discover the beauty of historical maps depicting a past geographical place of their interest. It is a well-known project in the cultural heritage sector. From its first launch in 2012, the website has had over 1,100,000 visitors and it already indexes over 400,000 scanned maps from collections of The British Library, National Library of Scotland, David Rumsey, Harvard Library, Dutch National Archives, Charles University in Prague, New York Public Library and other institutions worldwide. 
 
@@ -30,15 +30,15 @@ With the development of the mobile app it will be even easier to access historic
 For more information visit www.oldmapsonline.org.
 
 <br>
-**Contact information:**<br>
+*Contact information:*<br>
 Marie Snevajsova<br>
 OldMapsOnline Team<br>
 info@oldmapsonline.org
 
 <br>
 
-**Klokan Technologies GmbH:** A Swiss company that specializes in online map publishing, geographic information retrieval and applications of open-source software for the cultural heritage sector. (www.klokantech.com/)
+*Klokan Technologies GmbH:* A Swiss company that specializes in online map publishing, geographic information retrieval and applications of open-source software for the cultural heritage sector. (http://www.klokantech.com/)
 
-**JISC:** The Joint Information Systems Committee, a UK-based charity that provides digital solutions for UK education and research. (www.jisc.ac.uk)
+*JISC:* The Joint Information Systems Committee, a UK-based charity that provides digital solutions for UK education and research. (http://www.jisc.ac.uk)
 
-**MapRank Search:** A unique technology to explore thousands of maps in real time.The MapRank algorithm ensures that the geographically most relevant documents are always on the top of the result list — and it also combines geographical query with the text search, selected time range and the map scale.
+*MapRank Search:* A unique technology to explore thousands of maps in real time.The MapRank algorithm ensures that the geographically most relevant documents are always on the top of the result list — and it also combines geographical query with the text search, selected time range and the map scale. (http://www.mapranksearch.com/)
