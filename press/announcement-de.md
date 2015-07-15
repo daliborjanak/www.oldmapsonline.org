@@ -1,10 +1,10 @@
 ---
 layout: press
 section: press
-permalink: press/
+permalink: press/de/
 title: Announcement
 description: Press
 keywords: press, announcement
 ---
 
-#DE
+Historical maps in your hand
