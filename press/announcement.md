@@ -2,7 +2,7 @@
 layout: press
 section: press
 permalink: press/
-title: press
+title: Press release
 description: Press
 keywords: press, announcement
 ---
