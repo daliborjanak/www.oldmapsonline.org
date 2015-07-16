@@ -2,10 +2,12 @@
 layout: press
 section: press
 permalink: press/
-title: Announcement
+title: press
 description: Press
 keywords: press, announcement
 ---
+
+####Press release
 
 #Thousands of historical maps in your pocket
 
