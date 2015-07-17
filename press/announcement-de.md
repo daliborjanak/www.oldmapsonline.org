@@ -31,15 +31,15 @@ Mit der Entwicklung der mobilen App wird es inskünftig noch einfacher sein, his
 Weitere Informationen finden Sie unter: http://www.oldmapsonline.org/
 
 <br>
-**Kontaktdaten:**<br>
+*Kontaktdaten:*<br>
 Marie Snevajsova<br>
 OldMapsOnline Team<br>
 info@oldmapsonline.org
 
 <br>
 
-**Klokan Technologies GmbH:** Ein Schweizer Unternehmen spezialisiert auf Online Veröffentlichungen von Landkarten, Abruf von geographischen Informationen und Open-Source-Software Applikationen für den Kulturerbe-Sektor. (http://www.klokantech.com/)
+*Klokan Technologies GmbH:* Ein Schweizer Unternehmen spezialisiert auf Online Veröffentlichungen von Landkarten, Abruf von geographischen Informationen und Open-Source-Software Applikationen für den Kulturerbe-Sektor. (http://www.klokantech.com/)
 
-**JISC:** The Joint Information Systems Committee; Eine in Grossbritannien ansässige Stiftung, die digitale Lösungen für Bildung und Forschung liefert. (http://www.jisc.ac.uk/)
+*JISC:* The Joint Information Systems Committee; Eine in Grossbritannien ansässige Stiftung, die digitale Lösungen für Bildung und Forschung liefert. (http://www.jisc.ac.uk/)
 
-**MapRank Search:** Eine einzigartige Technologie, welche die Erforschung von tausenden von Landkarten zeitig ermöglicht. Der MapRank Algorithmus stellt sicher, dass die geographisch meist relevanten Dokumente immer als Erstergebnisse erscheinen – er kombiniert auch die geographische Abfrage mit der Textsuche, dem ausgewählten Zeitumfang und Kartenmassstab. (http://www.mapranksearch.com/)
+*MapRank Search:* Eine einzigartige Technologie, welche die Erforschung von tausenden von Landkarten zeitig ermöglicht. Der MapRank Algorithmus stellt sicher, dass die geographisch meist relevanten Dokumente immer als Erstergebnisse erscheinen – er kombiniert auch die geographische Abfrage mit der Textsuche, dem ausgewählten Zeitumfang und Kartenmassstab. (http://www.mapranksearch.com/)
