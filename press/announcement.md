@@ -18,7 +18,7 @@ OldMapsOnline is a search engine for maps that allows visitors to explore and di
 OldMapsOnline provides a single entry point for searching maps of the same geographical location without the need to know which library holds the actual map. This is a real benefit for researchers and students because it saves their time, effort and costs. 
 The idea for the OldMapsOnline search engine was formed years back while its creator, Petr Pridal from Klokan Technologies GmbH, worked in a public library as a student intern. “As like many other people, I have been fascinated by the beauty of the historical maps — and especially excited in using the power of modern computer technology to breathe new life into these archived documents and help them reach a new audience,” said Pridal about his passion.  
 
-Thanks to funding from JISC, Pridal created OldMapsOnline in collaboration with The Great Britain Historical GIS Project based at The University of Portsmouth. He received a special award from the Royal Scottish Geographical Society, and experts from UK national libraries included OldMapsOnline on a list of 100 websites important enough to preserve for future generations.
+Thanks to funding from JISC, Pridal created OldMapsOnline in collaboration with The Great Britain Historical GIS Project based at The University of Portsmouth. He received a special award from the Royal Scottish Geographical Society, and experts from UK  libraries included OldMapsOnline on a list of 100 websites important enough to preserve for future generations.
 
 OldMapsOnline uses the MapRank® search system to retrieve maps from a large database of online maps housed in institutions all over the world.
 
