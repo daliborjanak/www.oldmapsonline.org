@@ -2,69 +2,44 @@
 layout: press
 section: press
 permalink: press/de/
-title: Announcement
-description: Press
-keywords: press, announcement
+title: Pressemeldung
+description: Pressemeldung
+keywords: press, Pressemeldung
 ---
 
-#A unique mobile app from the heart of Switzerland
+#Tausende historische Karten für die Hosentasche
+###Eine einzigartige mobile App aus dem Herzen der Schweiz
 
-On Tuesday, July 21, Klokan Technologies GmbH with its head office in Unterägeri (Canton of
-Zug) will launch its new version of a popular website OldMapsOnline.org together with its 
-bright new mobile application that thanks to the device’s geolocation can display position of 
-users on maps that might be even hundreds of years old. Thanks to this successful company 
-from the field of online map publishing, the Canton of Zug could be described not only as a 
-place with a beautiful landscape, tasty cherry cakes and friendly people, but also as a world’s 
-capital of digital mapping search mechanisms.  
+Am Dienstag, 21. Juli 2015, wird die Klokan Technologies GmbH, mit Sitz in  Unterägeri (Kanton Zug), die weltweit erste mobile App lancieren, welche den Nutzern, dank der eingebauten Methode von Geolocation, ihre genaue Position auf teilweise über hundert Jahre alte Landkarten aufzeigen kann. Gleichzeitig wird die neuste Version der bekannten Internetseite OldMapsOnline.org aufgeschaltet, welche ebenfalls aus dem Hause Klokan Technologies stammt.
 
-OldMapsOnline  is a search engine for maps in libraries that allows visitors to explore and 
-discover the beauty of historical maps depicting a geographical place of their interest in the 
-past. It is a well known project in the cultural heritage sector. From its first launch in 2012, the 
-website has had over 1,100,000 visitors and it already indexes over 400,000 scanned maps from 
-collections of The British Library, National Library of Scotland, David Rumsey, Harvard Library, 
-Dutch National Archives, Charles University in Prague, New York Public Library, and other 
-institutions worldwide. 
+Dank dem erfolgreichen Unternehmen, das im Bereich von Online- Landkartenveröffentlichungen tätig ist, kann der Kanton Zug jetzt nicht nur als ein Ort von wunderschönen Landschaften, schmackhaften Kirschtorten und freundlichen Menschen beschrieben werden, sondern auch als die Welthauptstadt der digitalen Kartographierungsmechanismen.
 
-OldMapsOnline provides a single entry point for searching maps of the same geographical 
-location without the need to know which library holds the actual map. This is a real benefit for 
-researchers and students because it saves their time, effort and costs. 
+OldMapsOnline ist eine Suchmaschine für Landkarten in Archiven diverser Institutionen, die den Besuchern erlaubt, die Schönheit von historischen Karten zu entdecken und weiter zu erforschen, indem sie die von ihnen ausgewählte geopraphische Lage in einem vergangenem Zeitraum darstellt. Es handelt sich um ein bekanntes Projekt in der Kulturerbebranche. Seit der Einführung im Jahr 2012 zählt die Internetseite über 1.500.000 Besuchern und erschließt im Verzeichnis mehr als 400.000 abgescannten Landkarten aus Kollektionen von der Britanischen Bibliothek, Nationalen Bibliothek Schotlands, David Rumsey, Harvard Bibliothek, vom Nationalen Holländischen Archiv, der Charles Universität in Prag, von der New York Öffentlichen Bibliothek, und anderen Institutionen weltweit.
 
-The idea for the OldMapsOnline search engine was formed years back while its creator, Petr 
-Pridal from Klokan Technologies GmbH, worked in a public library as a student intern. “As many 
-other people I have been fascinated by the beauty of the historical maps ‐ and especially 
-excited in using the power of modern computer technology to breathe new life into these 
-archival documents and help them reach new audience,” says Pridal about his passion.  Thanks 
-to funding from JISC he created OldMapsOnline in collaboration with The Great Britain Historical GIS 
-Project based at The University of Portsmouth. He received a special award from the Royal Scottish 
-Geographical Society and  experts from UK national libraries included Old Maps Online on a list of 100 
-websites important enough to preserve for future generations.
+OldMapsOnline fungiert als zentralen Eingangspunkt für die Suche von Landkarten eines gleichen geographischen Standortes, ohne den Bedarf für vorhergehendes Wissen bezüglich in welcher Bibliothek die Landkarte eigentlich zu finden ist. Dies ist ein wahrhafter Vorteil für Forscher und Studenten da es ihnen Zeit, Aufwand und Kosten erspart.
 
-OldMapsOnline uses the MapRank® search system to retrieve maps from a large database of 
-online maps from various map collections of institutions all over the world. The new application 
-provides an easy to use touch optimized interface that allows users to discover and explore the 
-historical maps directly on mobile phones and tablets, while using the device geolocation.  
-„OldMapsOnline is a fantastic website. The whole interface, the look and feel is really new, 
-really modern and it provides a really interesting and engaging way for our collections to be 
-exposed to a wider audience,“ describes Chris Fleet from the National Library of Scotland.
+Die Idee für die OldMapsOnline Suchmaschine nahm an Gestalt vor Jahren als ihr Schöpfer, Petr Pridal von Klokan Technologies GmbH, in einer öffentlichen Bibliothek sein Studenten-Praktikum absolvierte. „So wie viele anderen bin auch ich immer von der Schönheit von historischen Landkarten fasziniert gewesen; und insbesondere war ich dazu angeregt, die Macht der modernen Computertechnologie zu nutzen um frischen Wind in dieses Archivmaterial zu bringen, so dass es für ein neues Publikum zugänglich gemacht werden konnte,“ behauptet Pridal über seine Leidenschaft. 
 
-„There was no real online mapping search mechanism before,“ said Kimberly Kowal from the 
-British Library at the conference in Edinburgh one year after the launch of the OldMapsOnline 
-website. „It is the best single place to go to find historical maps online, “ Kowal continues. With 
-the development of the mobile app it will be even easier to access historical maps and to 
-undertake a virtual journey back in time anywhere. 
+Mithilfe der Finanzierung von JISC entwarf er OldMapsOnline in enger Zusammenarbeit mit  „The Great Britain Historical GIS Project“, sesshaft an der Portsmouth Universität. Eine besondere Auszeichnung von der Königlichen Schottischen Geographischen Gesellschaft wurde ihm verliehen, und britische Experten der nationalen Bibliotheken nahmen Old Maps Online in eine exklusive Liste von 100 Internetseiten auf, die so bedeutungsvoll sind, dass sie für die zukünftigen Generationen aufrechterhalten bleiben sollten.
 
-More information at: www.oldmapsonline.org
+OldMapsOnline nutzt das MapRank® Suchsystem um in einer umfangreichen online Landkartendatenbank, bestehend aus diversen Kollektionen von Institutionen der ganzen Welt, nach Dokumenten abzufragen. Mit einem benutzerfreundlichem optimierten Berührungsinterface und durch die Anwendung von Geolocation erlaubt diese neue Applikation den Nutzern die Erkundung von historischen Landkarten direkt auf Handys und Tablets.
+
+„OldMapsOnline ist eine phantastische Internetseite. Das gesamte Interface, das Aussehen und Empfinden ist sehr neuartig und modern und stellt eine sehr ansprechende und mitnehmende Möglichkeit dar einem breiteren Publikum unsere Kollektionen anzubieten“, beschreibt Chris Fleet, von Schotlands Nationaler Bibliothek.  
+
+„Früher gab es kein wirkliches Kartographierungsmechanismus für die online Suche nach Landkarten“, bekannte Kimberly Kowal von der Britischen Bibiliothek auf der Edinburgh Konferenz, ein Jahr nach der Einführung von OldMapsOnlines Internetseite. „Es ist die einzige, beste Seite um historische Landkarten online zu finden“, fuhr Kowal fort. Mit der Entwicklung der mobilen App wird es noch einfacher sein historische Landkarten abzurufen und somit eine virtuelle Reise überall in die Vergangenheit anzutreten. 
+
+Weitere Informationen finden Sie unter: http://www.oldmapsonline.org/
 
 <br>
-**Contact information:**<br>
+**Kontaktdaten:**<br>
 Marie Snevajsova<br>
 OldMapsOnline Team<br>
 info@oldmapsonline.org
 
 <br>
 
-**Klokan Technologies GmbH:** A Swiss company that specializes in online map publishing, geographic information retrieval and applications of open-source software for the cultural heritage sector. (www.klokantech.com/)
+**Klokan Technologies GmbH:** Ein Schweizer Unternehmen spezialisiert auf online Veröffentlichungen von Landkarten, Abruf von geographischen Informationen und Open-Source-Software Applikationen für den Kulturerbesektor. (http://www.klokantech.com/)
 
-**JISC:** The Joint Information Systems Committee, a UK-based charity that provides digital solutions for UK education and research. (www.jisc.ac.uk)
+**JISC:** The Joint Information Systems Committee, eine in Großbritannien basierter Stiftung die digitale Lösungen für Bildung und Forschung liefert. (http://www.jisc.ac.uk/)
 
-**MapRank Search:** A unique technology to explore thousands of maps in real time.The MapRank algorithm ensures that the geographically most relevant documents are always on the top of the result list — and it also combines geographical query with the text search, selected time range and the map scale.
+**MapRank Search:** eine einzigartige Technologie welche die Erforschung von tausenden von Landkarten zeitig ermöglicht. Der MapRank Algorithmus stellt sicher dass die geographisch meist relevanten Dokumente immer als Erstergebnisse aufkommen – er kombiniert auch die geographische Abfrage mit der Textsuche, dem ausgewählten Zeitumfang und Kartenmaßstab. (http://www.mapranksearch.com/)
