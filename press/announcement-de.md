@@ -28,7 +28,7 @@ OldMapsOnline nutzt das MapRank® Suchsystem, um in einer umfangreichen Online- 
 
 Mit der Entwicklung der mobilen App ist es noch einfacher, historische Landkarten abzurufen und somit eine virtuelle Reise überall in die Vergangenheit anzutreten.
 
-Weitere Informationen finden Sie unter: http://www.oldmapsonline.org/
+Weitere Informationen finden Sie unter: http://www.oldmapsonline.org/ und http://www.oldmapsonline.org/mobile/.
 
 <br>
 *Kontaktdaten:*<br>
