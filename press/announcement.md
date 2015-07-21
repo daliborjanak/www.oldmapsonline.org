@@ -11,7 +11,7 @@ keywords: press, announcement
 
 #Thousands of historical maps in your pocket
 
-*On Tuesday, July 21, a new version of OldMapsOnline.org will be launched with its bright new mobile application that, thanks to the device’s geolocation, can display the position of users on maps that might be hundreds of years old.*
+*On Tuesday, July 21, a new version of OldMapsOnline.org has been launched with its bright new mobile application that, thanks to the device’s geolocation, can display the position of users on maps that might be hundreds of years old.*
 
 OldMapsOnline is a search engine for maps that allows visitors to explore and discover the beauty of historical maps depicting a past geographical place of their interest. It is a well-known project in the cultural heritage sector. From its first launch in 2012, the website has had over 1,500,000 visitors and it already indexes over 400,000 scanned maps from collections of The British Library, National Library of Scotland, David Rumsey, Harvard Library, Dutch National Archives, Charles University in Prague, New York Public Library and other institutions worldwide. 
 
@@ -28,7 +28,7 @@ The new application provides an easy-to-use, touch-optimized interface that allo
 
 “There was no real online mapping search mechanism before,“ said Kimberly Kowal from the British Library at the conference in Edinburgh, one year after the launch of the OldMapsOnline website. “It is the best single place to go to find historical maps online.”
 
-With the development of the mobile app it will be even easier to access historical maps and to undertake a virtual journey back in time anywhere. 
+With the development of the mobile app it is now even easier to access the historical maps and to undertake a virtual journey back in time anywhere. 
 
 For more information visit www.oldmapsonline.org.
 
