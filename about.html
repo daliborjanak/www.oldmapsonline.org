@@ -57,9 +57,10 @@ All new participants are warmly welcomed.</p>
 {% assign collections = site.data.collections | sort: 'repository_num_maps_in_omo' %}
 
 {% for coll in collections reversed %}
-{% if coll.repository_title.size > 0 %}
+{% if coll.repository_title.size > 0 and coll.repository_num_maps_in_omo > 0%}
 {% capture maps_in_omo %}{{  maps_in_omo |plus: coll.repository_num_maps_in_omo }}{% endcapture %}
 {% capture maps_in_omo_mob %}{{  maps_in_omo_mob |plus: coll.repository_num_maps_in_omo_mobile }}{% endcapture %}
+
 <div class="row">
   <div class="col8">
     <h3>
