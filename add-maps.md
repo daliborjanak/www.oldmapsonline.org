@@ -38,7 +38,7 @@ To upload your maps to OldMapsOnline, we need to receive:
 
 To add a map collection we need a excel spreadsheet with basic information about each map.
 
-<a href="#">DOWNLOAD A SAMPLE</a>
+<a href="/blog/media/oldmapsonline.xls">DOWNLOAD A SAMPLE XLS SPREADSHEET</a> or see online <a href="https://docs.google.com/spreadsheets/d/1vOy64k82b9mhuINqgOQFIuLGFVRvW5hGOp7gVpKO318/edit?usp=sharing">PREVIEW</a>
 
 Each spreadsheet must have following columns:
 
@@ -57,9 +57,13 @@ Use <a href="#tvalidator">validator</a> to test your spreadsheet is correct.
 
 ##Thumbnails
 
-Thumbnails of your maps in size max. 1000 x 1000 px with the same ID as in the spreadsheet. Institutions using the Georeferencer service can skip this step.
+Thumbnails of your maps in size ideally fitting into 1000 x 1000 px with the same ID as used in the spreadsheet should be provided or linked from the spreadsheet.
 
-Once your spreadsheet and thumbnails are ready, please contact us at info@oldmapsonline.org
+In case your maps are available via an image service (such as <a href="http://iiif.io/">IIIF</a> or Zoomify, Aware, MrSID, IIPImage, etc) then thumbnails are generated automatically.
+
+Institutions using the <a href=="http://www.georeferencer.com/">Georeferencer</a> service can skip this step.
+
+Once your spreadsheet is valid and thumbnails are ready, please contact us at info@oldmapsonline.org
 
 ##Need help?
 
