@@ -1,7 +1,7 @@
 baseurl: ""
 permalink: /blog/:year/:month/:title
 
-gems:
+plugins:
     - jekyll-redirect-from
 
 jekyll_get:
