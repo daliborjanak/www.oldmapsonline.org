@@ -31,4 +31,3 @@ See <a href="http://klokantech.github.io/iiifviewer/examples/index.html" target=
 
 A nice example are the <a href="http://maps.nls.uk/view/00000203" target="_blank">Maps of Scotland</a>
 from the <a href="http://maps.nls.uk/" target="_blank">National Library of Scotland</a>.
-

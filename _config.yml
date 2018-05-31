@@ -8,32 +8,3 @@ jekyll_get:
   data: collections
   json: 'http://api.georeferencer.com/repositories.json'
   cache: false
-
-prose:
-  rooturl: "_posts"
-  siteurl: "http://prose.github.io/starter/"
-  relativeLinks: "http://prose.github.io/starter/links.jsonp"
-  media: "media"
-  metadata:
-    _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "OldMapsOnline"
-              value: "OldMapsOnline"

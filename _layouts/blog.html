@@ -17,11 +17,11 @@ section: blog
       <h3 class="padt-2">Blog archive</h3>
       <div>
         <p class="mar-no">
-        {% for item in site.categories.blog limit:1000 %}
+        {% for item in site.posts %}
         {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
         {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 
-        
+
         {% if date != ndate %}
         {% unless forloop.first %}<br>{% endunless %}{{item.date | date: '%B %Y'}}<br>
         {% endif %}
