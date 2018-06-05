@@ -1,5 +1,10 @@
 baseurl: ""
-permalink: /blog/:year/:month/:title
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:title
+
 
 plugins:
     - jekyll-redirect-from
