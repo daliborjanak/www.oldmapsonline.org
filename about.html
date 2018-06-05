@@ -49,12 +49,12 @@ All new participants are warmly welcomed.</p>
 <a href="/get-involved/" class="btn">Help other institutions</a>
 </p>
 
+{% if site.data.collections %}
 <h2 class="padt-4">The participating institutions</h2>
 
 {% assign maps_in_omo = 0 %}
 {% assign maps_in_omo_mob = 0 %}
 
-{% if site.data.collections %}
 {% assign collections = site.data.collections | sort: 'repository_num_maps_in_omo' %}
 
 {% for coll in collections reversed %}
