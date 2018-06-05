@@ -1,4 +1,5 @@
 ---
+published: true 
 author: "Hynek P\u0159idal"
 blogger_id: tag:blogger.com,1999:blog-6689009.post-2696900234723824213
 blogger_orig_url: http://blog.klokantech.com/2015/12/georeferencer-for-tu-darmstadt.html
