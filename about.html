@@ -2,7 +2,7 @@
 layout: page
 section: page
 permalink: about/
-redirect_from: 
+redirect_from:
   - impacts/
   - content/
   - faqs/
@@ -15,7 +15,7 @@ keywords: about, project, oldmapsonline
 <div class="inline-block">
 <h1>The search engine for historical maps</h1>
 
-<p>OldMapsOnline developed out of a love of history and heritage of old maps. The project 
+<p>OldMapsOnline developed out of a love of history and heritage of old maps. The project
 began as a collaboration between Klokan Technologies GmbH, Switzerland and
 The Great Britain Historical GIS Project based at the University of Portsmouth, UK thanks to funding from JISC.
 Since January 2013 is the project improved and maintained by volunteers and the team of Klokan Technologies GmbH in their free time.<br/>
@@ -27,20 +27,20 @@ For inquiries related to rights for a particular map contact the relevant instit
 
 <h4>Technology</h4>
 
-<p>The website has been created by <a href="http://www.klokantech.com">Klokan Technologies GmbH</a>, 
+<p>The website has been created by <a href="http://www.klokantech.com">Klokan Technologies GmbH</a>,
 specialists in online map publishing and in applications of open-source software.
-It aims to demonstrate a combination of tools for publishing historical maps with a focus on their easy accessibility for the general 
+It aims to demonstrate a combination of tools for publishing historical maps with a focus on their easy accessibility for the general
 public. The core of the retrieval system is the <a href="http://www.mapranksearch.com">MapRank Search</a> software, developed originally for the Swiss <a href="http://www.kartenportal.ch/en/">Kartenportal.CH</a> project.
 The web is optimised for search engines with GeoSEO powered by Linked Data, and it also exposes Structured Data (Schema.org microdata).
 The technology and expertise from this project can be applied on another projects on request.
 
 <h4>Let's work together</h4>
-We are keen to improve this project and participate on a new research and projects in the field of digital historical cartography. We are open for partnership on national or 
+We are keen to improve this project and participate on a new research and projects in the field of digital historical cartography. We are open for partnership on national or
 european R&D projects. Don't hesitate to contact us!
 
 <h2 class="padt-4">Content</h2>
 
-<p>OldMapsOnline.org indexes over 400.000 maps. This is only thanks to the archives and libraries that were open to the idea and provided their online content.  
+<p>OldMapsOnline.org indexes over 400.000 maps. This is only thanks to the archives and libraries that were open to the idea and provided their online content.
 All new participants are warmly welcomed.</p>
 <p>
 <a href="/add-maps/" class="btn">Add your maps to OldMapsOnline</a>
@@ -54,6 +54,7 @@ All new participants are warmly welcomed.</p>
 {% assign maps_in_omo = 0 %}
 {% assign maps_in_omo_mob = 0 %}
 
+{% if site.data.collections %}
 {% assign collections = site.data.collections | sort: 'repository_num_maps_in_omo' %}
 
 {% for coll in collections reversed %}
@@ -84,4 +85,5 @@ All new participants are warmly welcomed.</p>
     <p><b>Total maps in Mobile App: {{maps_in_omo_mob}}</b></p>
   </div>
 </div>
+{% endif %}
 </div>
