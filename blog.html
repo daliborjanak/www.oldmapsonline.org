@@ -6,7 +6,7 @@ description: News about OldMapsOnline
 keywords: blog, news, posts
 ---
 
-{% for item in site.posts limit:20 %}
+{% for item in site.categories.blog limit:20 %}
 <div  class="page-block">
   <h2><a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a></h2>
   <b>{{item.date | date: "%A, %B %d, %Y"}}</b>
