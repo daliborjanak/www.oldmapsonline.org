@@ -7,14 +7,14 @@ description: Pressemeldung
 keywords: press, Pressemeldung
 ---
 
-#Tausende historische Karten für die Hosentasche
-###Eine einzigartige mobile App aus dem Herzen der Schweiz
+# Tausende historische Karten für die Hosentasche
+### Eine einzigartige mobile App aus dem Herzen der Schweiz
 
 Am Dienstag, 21. Juli 2015, hat Klokan Technologies GmbH, mit Sitz in  Unterägeri (Kanton Zug), die weltweit erste mobile App lanciert, welche den Nutzern ihre Position auf hunderttausenden alten Landkarten der ganzen Welt aufzeigen kann. Gleichzeitig ist die neuste Version der bekannten Internetseite OldMapsOnline.org aufgeschaltet, welche ebenfalls aus dem Hause Klokan Technologies stammt.
 
-OldMapsOnline ist eine Suchmaschine für historische Landkarten, welche in Archiven diverser Institutionen (z.B. Bibliotheken) hinterlegt sind. Sie erlaubt den Besuchern, die Schönheit von alten Karten zu entdecken und weiter zu erforschen, indem die App die vom Benutzer ausgewählte geopraphische Lage in einem vergangenen Zeitraum darstellt.        Es handelt sich um ein bekanntes Projekt in der Kulturerbe-Branche. Seit der Einführung im Jahr 2012 zählt die Internetseite über 1.5 Mio. Besucher und sie vernetzt die Benutzer mit mehr als 400’000 gescannten Landkarten aus den Sammlungen von The British Library, National Library of Scotland, Privatsammler David Rumsey, Harvard Library, Dutch National Archives, der Charles Universität in Prag, der New York Public Library und anderen weltweiten Institutionen. 
+OldMapsOnline ist eine Suchmaschine für historische Landkarten, welche in Archiven diverser Institutionen (z.B. Bibliotheken) hinterlegt sind. Sie erlaubt den Besuchern, die Schönheit von alten Karten zu entdecken und weiter zu erforschen, indem die App die vom Benutzer ausgewählte geopraphische Lage in einem vergangenen Zeitraum darstellt.        Es handelt sich um ein bekanntes Projekt in der Kulturerbe-Branche. Seit der Einführung im Jahr 2012 zählt die Internetseite über 1.5 Mio. Besucher und sie vernetzt die Benutzer mit mehr als 400’000 gescannten Landkarten aus den Sammlungen von The British Library, National Library of Scotland, Privatsammler David Rumsey, Harvard Library, Dutch National Archives, der Charles Universität in Prag, der New York Public Library und anderen weltweiten Institutionen.
 
-Mittels OldMapsOnline kann man historische Landkarten eines bestimmten geographischen Standortes suchen, ohne davon Kenntnis zu haben, in welchen Archiven die entsprechenden Karten abrufbar sind. Mit einem einzigen Klick hat man auf die weltweiten gesammelten Kartendaten der oben genannten Bibliotheken und Institutionen Zugriff. Dies ist ein grosser Vorteil für Forscher und Studenten, da es ihnen Zeit, Aufwand und Kosten erspart. 
+Mittels OldMapsOnline kann man historische Landkarten eines bestimmten geographischen Standortes suchen, ohne davon Kenntnis zu haben, in welchen Archiven die entsprechenden Karten abrufbar sind. Mit einem einzigen Klick hat man auf die weltweiten gesammelten Kartendaten der oben genannten Bibliotheken und Institutionen Zugriff. Dies ist ein grosser Vorteil für Forscher und Studenten, da es ihnen Zeit, Aufwand und Kosten erspart.
 
 Die Idee für die OldMapsOnline Suchmaschine nahm bereits vor Jahren Gestalt an, als ihr Entwickler, Petr Pridal, Geschäftsführer von Klokan Technologies, in einer öffentlichen Bibliothek ein Praktikum absolvierte. „So wie viele andere, bin auch ich immer schon von der Schönheit historischer Landkarten fasziniert gewesen. Insbesondere gab es mir den Anreiz, die moderne Computertechnologie zu nutzen, um das archivierte Kartenmaterial aufzufrischen und für ein neues Publikum zugänglich zu machen.“ sagt Petr Pridal über seine Leidenschaft.
 

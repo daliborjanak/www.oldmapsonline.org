@@ -7,7 +7,7 @@ redirect_from:
   - validator/
   - publish/
 title: Contribute
-description: 
+description:
 keywords: contribute
 ---
 <!--
@@ -19,7 +19,7 @@ Fill the table and click on save
 (PRINTSCREEN)
 -->
 
-#Add collections of maps
+# Add collections of maps
 
 *Adding whole collection raises a number of visitors on your website. Only collections that meet these requirements can be uploaded:*
 
@@ -34,7 +34,7 @@ Fill the table and click on save
 To upload your maps to OldMapsOnline, we need to receive:
 
 
-##Spreadsheet with the list of maps
+## Spreadsheet with the list of maps
 
 To add a map collection we need a excel spreadsheet with basic information about each map.
 
@@ -55,7 +55,7 @@ if you know only the century, then as YYXX; eg. 16XX for the 1600-1699<br>
 
 Use <a href="#tvalidator">validator</a> to test your spreadsheet is correct.
 
-##Thumbnails
+## Thumbnails
 
 Thumbnails of your maps in size ideally fitting into 1000 x 1000 px with the same ID as used in the spreadsheet should be provided or linked from the spreadsheet.
 
@@ -65,7 +65,7 @@ Institutions using the <a href=="http://www.georeferencer.com/">Georeferencer</a
 
 Once your spreadsheet is valid and thumbnails are ready, please contact us at info@oldmapsonline.org
 
-##Need help?
+## Need help?
 
 There is a simple how-to manual to help you to publish your map online and get the right coordinates for each map. Please, visit http://www.klokantech.com/cultural-heritage/
 
@@ -74,4 +74,3 @@ There is a simple how-to manual to help you to publish your map online and get t
 Please test your data before submitting them to us. Once your spreadsheet is correct, please contact us.
 
 <iframe id="validator" src="http://api.georeferencer.com/admin/validate"></iframe>
-

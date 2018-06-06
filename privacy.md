@@ -8,7 +8,7 @@ description: Privacy and Cookies
 keywords: privacy, policy, cookies
 ---
 
-#Privacy and Cookies
+# Privacy and Cookies
 This web site is designed to be used as a free, open-access resource available anywhere. It does not require registration or log-in for use of the site.
 
 **Our use of cookies**
