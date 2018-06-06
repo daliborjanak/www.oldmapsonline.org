@@ -8,3 +8,8 @@ collections:
 
 plugins:
     - jekyll-redirect-from
+
+jekyll_get:
+  data: collections
+  json: 'http://api.georeferencer.com/repositories.json'
+  cache: false
